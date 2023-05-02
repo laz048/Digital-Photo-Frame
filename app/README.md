@@ -1,3 +1,3 @@
 ## App interface
 
-![Digital-Photo_frame](/app_interface.jpg?raw=true "Digital-Photo_Frame")
+![Digital-Photo_frame](/app_interface.png?raw=true "Digital-Photo_Frame")
