@@ -1,1 +1,1 @@
-# DigitalPhotoFrame
+# Digital Photo Frame
