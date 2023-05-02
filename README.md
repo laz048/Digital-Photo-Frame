@@ -1,4 +1,5 @@
-#Digital Photo Frame
+# Digital Photo Frame
+
 Authors: Emily Rodrigues, Lazaro Ramos
 
 For ECE-692 @ NJIT Spring 2023
